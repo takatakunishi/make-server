@@ -1,4 +1,3 @@
-import express from "express"
 import health from "./health"
 import postTest from "./postTest"
 
